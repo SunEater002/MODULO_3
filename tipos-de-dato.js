@@ -1,3 +1,5 @@
+console.log(typeof "Tipos de dato de Js");
+
 console.log(typeof 42); 
 // number
 console.log(typeof 'Hola');
