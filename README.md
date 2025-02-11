@@ -6,4 +6,5 @@
  ### Array (una lista de valores)
  ### Objeto (un conjunto de clave-valor)
 
- [text](https://suneater002.github.io/tipos-de-dato/)
+ https://suneater002.github.io/tipos-de-dato/
+ 
