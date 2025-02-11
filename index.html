@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de datos Js</title>
+</head>
+<body>
+    <h1>Tipos de datos en Js</h1>
+    <p>En Js existen 7 tipos de datos primitivos</p>
+    <ul>
+        <li>String</li>
+        <li>Number</li>
+        <li>Boolean</li>
+        <li>Null</li>
+        <li>Undefined</li>
+        <li>Symbol</li>
+        <li>BigInt</li>
+    </ul>
+    <p>Para saber el tipo de dato de una variable se puede usar el operador typeof</p>
+    <p>Por ejemplo:</p>
+    <code>
+        <pre>
+            let nombre = "Juan";
+            console.log(typeof nombre); // string
+        </pre>
+    </code>
+    <p>En el siguiente ejemplo se muestra el tipo de dato de una variable</p>
+    <code>
+        <pre>
+            let nombre = "Juan";
+            let edad = 25;
+            let casado = false;
+            let hijos = null;
+            let mascotas = undefined;
+            let simbolo = Symbol("mi simbolo");
+            let bigInt = 1234567890123456789012345678901234567890n;
+
+            console.log(typeof nombre); // string
+            console.log(typeof edad); // number
+            console.log(typeof casado); // boolean
+            console.log(typeof hijos); // object
+            console.log(typeof mascotas); // undefined
+            console.log(typeof simbolo); // symbol
+            console.log(typeof bigInt); // bigint
+        </pre>
+    </code>
+    <p>En el siguiente ejemplo se muestra el tipo de dato de una variable</p>
+    <code>
+        <pre>
+            let nombre = "Juan";
+            let edad = 25;
+            let casado = false;
+            let hijos = null;
+            let mascotas = undefined;
+            let simbolo = Symbol("mi simbolo");
+            let bigInt = 1234567890123456789012345678901234567890n;
+
+            console.log(typeof nombre); // string
+            console.log(typeof edad); // number
+            console.log(typeof casado); // boolean
+            console.log(typeof hijos); // object
+            console.log(typeof mascotas); // undefined
+            console.log(typeof simbolo); // symbol
+            console.log(typeof bigInt); // bigint
+</body>
+<script src = "./tipos-de-dato.js"></script>
+</html>
