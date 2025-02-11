@@ -1,10 +1,3 @@
-# TIPOS DE DATO DE JS 
+# MODULO 3 
 
- ### Número (int, float, number)
- ### Cadena de texto (string)
- ### Booleano (true o false)
- ### Array (una lista de valores)
- ### Objeto (un conjunto de clave-valor)
-
- https://suneater002.github.io/tipos-de-dato/
- 
+#### 1. Tipos de datos Js
