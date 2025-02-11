@@ -1,3 +1,3 @@
-# MODULO 3 git 
+# MODULO 3
 
-#### 1. Tipos de datos Js
+#### 1. Tipos de datos Js 
