@@ -6,3 +6,6 @@ El ciclo while es un tipo de ciclo que se utiliza para ejecutar un bloque de có
 
 ## Arreglos y Listas
 Un arreglo es una colección de valores de cualquier tipo, mientras que una lista es una colección
+
+## PROBLEMA 
+- Clasificacion de frutas 
