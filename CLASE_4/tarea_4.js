@@ -12,7 +12,7 @@ function mostrarLibros(){
     console.log("Libros leidos: ")
     for (let i=0; i<librosleidos.length; i++){  // recorre el arreglo y se ejecuta mientras 
                                                 // i sea menos a la longitud del arreglo
-        console.log(librosleidos[i]);           // imprime cada elemento del arreglo de la poscision i 
+        console.log((i + 1) + ". " + librosleidos[i]);  // imprime cada elemento del arreglo de la poscision i 
     }
 }
 
@@ -20,6 +20,8 @@ function mostrarLibros(){
 agregarlibro("ANODER");
 agregarlibro("NARNIA")
 agregarlibro("GOT");
+agregarlibro("ANTES DE TI");
+agregarlibro("PERFUME")
 
 //MUESTRA LOS LIBROS 
 mostrarLibros();
