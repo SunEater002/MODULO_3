@@ -19,7 +19,7 @@ class libro {
     }
 }
 
-const libros = [
+const libros = [     // Creamos un array con varios objetos libro
     new libro("El principito", "Antoine de Saint-Exupéry", 1943, "disponible"),
     new libro("El señor de los anillos", "J.R.R. Tolkien", 1954, "prestado"),
     new libro("Cien años de soledad", "Gabriel García Márquez", 1967, "disponible"),
